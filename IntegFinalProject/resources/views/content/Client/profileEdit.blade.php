@@ -19,9 +19,8 @@
                         </div>
                     </div>
                     <div class="card mb-4">
-
-                        <a href="{{ route('dashboard.profile') }}" type="button"
-                            class=" card-body col-sm-12 btn btn-light">Save Profile
+                        <a href="{{ route('updated') }}" type="button" class=" card-body col-sm-12 btn btn-light">Save
+                            Profile
                         </a>
                     </div>
                 </div>
@@ -124,7 +123,7 @@
                                     </select>
                                 </div>
                                 <div class="col-sm-3">
-                                    <input type="text" maxlength="2" >
+                                    <input type="text" maxlength="2">
                                 </div>
                                 <div class="col-sm-3">
                                     <input type="text" maxlength="4">

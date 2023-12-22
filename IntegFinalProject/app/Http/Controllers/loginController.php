@@ -37,6 +37,10 @@ class loginController extends Controller
         return view('Auth.login');
     }
 
+    public function updateUp(Request $request, $id){
+        return view('content.Client.profile');
+    }
+
     public function logout()
     {
 

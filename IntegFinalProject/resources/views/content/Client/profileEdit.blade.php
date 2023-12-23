@@ -19,7 +19,7 @@
                         </div>
                     </div>
                     <div class="card mb-4">
-                        <a href="{{ route('updated') }}" type="button" class=" card-body col-sm-12 btn btn-light">Save
+                        <a href="" type="button" class=" card-body col-sm-12 btn btn-light">Save
                             Profile
                         </a>
                     </div>
